@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class Card {
     private static final String path =
-                    "D:\\_a_Lecture Notes FSKTM\\WIX1002 Fundamentals of Programming\\Group Project\\donaldgame\\src\\donaldgame_v3\\carddeck.txt";
+                    "carddeck.txt"; //insert your path here!!
 
     private static final int numberOfCardsInDeck = 52;
     private static String[] cards = new String[numberOfCardsInDeck];
